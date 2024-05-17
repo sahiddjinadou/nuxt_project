@@ -1,3 +1,3 @@
 <template>
-    <div> Index paga</div>
+    <div class="text-4xl"> Hello Nuxt ! 🎷🎷🎷</div>
 </template>
